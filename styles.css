@@ -16,3 +16,13 @@ header
 {
     height: 35px; 
 }
+#nombre
+{
+font-weight: bold;
+}
+#acerca-de
+{
+    padding: 20px;
+    text-align: center;
+    background-color: rgb(151, 196, 255);
+}
