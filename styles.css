@@ -16,10 +16,21 @@ header {
 
 #nombre {
     font-weight: bold;
+    font-size: 20px;
+    font-style: normal;
 }
 
 #acerca-de {
     padding: 20px;
     text-align: center;
-    background-color: rgb(151, 196, 255);
+   
+}
+
+.row
+{
+    margin: 10px ;
+    padding: 20px;
+    border-radius: 32px;
+    border: 2px solid rgb(28, 0, 185);
+    font-style: italic;
 }
